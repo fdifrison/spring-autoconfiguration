@@ -1,0 +1,1 @@
+A list of useful springboot autoconfiguration encountered during projects
