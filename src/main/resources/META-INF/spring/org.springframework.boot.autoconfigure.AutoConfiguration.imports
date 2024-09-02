@@ -1,9 +1,3 @@
-com.aruba.simpl.common.autoconfigurations.RestExceptionHandlerAutoConfiguration
-com.aruba.simpl.common.autoconfigurations.DefaultSecurityAutoConfiguration
-com.aruba.simpl.common.autoconfigurations.ReactiveDefaultSecurityAutoConfiguration
-com.aruba.simpl.common.autoconfigurations.PageSerializationAutoConfiguration
-com.aruba.simpl.common.autoconfigurations.JwtPropertiesAutoConfiguration
-com.aruba.simpl.common.autoconfigurations.AuthorizationHeaderInterceptorAutoConfiguration
-com.aruba.simpl.common.autoconfigurations.LoggingAspectAutoConfiguration
-
 com.fdifrison.autoconfig.security.DefaultSecurityAutoConfiguration
+com.fdifrison.autoconfig.properties.PropertiesAutoConfiguration
+com.fdifrison.autoconfig.security.AuthorizationHeaderInterceptorAutoConfiguration
